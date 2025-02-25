@@ -50,7 +50,7 @@ export default function CardSection() {
   return (
     <>
       <h1 className="font-bold text-4xl mt-20 mb-10 text-center">Cards</h1>
-      <div className="container w-full flex justify-center px-2 ">
+      <div className="container w-full flex justify-center px-2 mx-auto">
         <div className="gap-2 grid grid-cols-2 sm:grid-cols-4 ">
           {list.map((item, index) => (
             /* eslint-disable no-console */
