@@ -10,7 +10,7 @@ export default function MainFooter() {
                     <div className="w-64 flex-shrink-0 md:mx-0 mx-auto text-center md:text-left">
                         <Link href="/" className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
                            
-                            <span className="ml-3 text-xl">Sample</span>
+                            <span className="ml-3 text-xl">Reliac</span>
                         </Link>
                         <p className="mt-2 text-sm text-gray-500">Air plant banjo lyft occupy retro adaptogen indego</p>
                     </div>
